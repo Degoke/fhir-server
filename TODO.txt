@@ -1,0 +1,7 @@
+- Setup elastic search
+- Add custom interceptor
+- enable subscription - email, websocket, rest
+- ig build upload and ig runtime upload
+- scrape metrics, logs and audit events ?? pprometheus, opentelemetry
+- enable clinical reasoning
+- smart on fhir ?? auth and config modules??
